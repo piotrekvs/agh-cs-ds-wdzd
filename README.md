@@ -11,3 +11,10 @@
 4. **ZAD. 2** Zaprezentowanie rezultatów grupie ćwiczeniowej
 
 5. Warunkiem powodzenia projektu jest wybór szerokiego i ciekawego zbioru danych do wizualizacji.
+
+## Co robić?
+
+1. Zbiór FMNIST
+2. Porównać autoenkodery:
+    * dziurawe (sparse autoencoders)
+    * wariacyjne (variational autoencoders)
